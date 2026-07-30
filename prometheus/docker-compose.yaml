@@ -12,7 +12,7 @@ services:
     command: 
       "--config.file=/etc/prometheus/prometheus.yml"
     volumes:
-      - "/home/sanju/docker/prometheus/config/prometheus.yml:/etc/prometheus/prometheus.yml:ro"
+      - "./config/prometheus.yml:/etc/prometheus/prometheus.yml:ro"
       - "prometheus-data:/prometheus"
   
     labels:
