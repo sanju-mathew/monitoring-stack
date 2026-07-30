@@ -204,3 +204,7 @@ Possible future improvements include:
 - Monitoring and Observability
 - YAML
 - Infrastructure Documentation
+
+# Monitoring Stack with Prometheus and Grafana
+
+**Tech Stack:** Docker • Docker Compose • Prometheus • Grafana • Node Exporter • cAdvisor • Linux • YAML
