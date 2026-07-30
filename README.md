@@ -1,6 +1,10 @@
 # Monitoring Stack with Prometheus and Grafana
 
+
+
 ## Overview
+
+![Monitoring Stack Architecture](images/architecture.jpg)
 
 This project demonstrates the deployment of a monitoring and observability stack using Prometheus and Grafana within my Docker-based homelab environment.
 
